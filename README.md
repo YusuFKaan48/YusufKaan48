@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yusuf Kaan USTA</h1>
+<h1 align="center">I'm Yusuf Kaan USTA</h1>
 <h3 align="center">I am a person who enjoys developing iOS applications.</h3>
 
-
-![Screenshot 2023-06-14 at 20 42 01](https://github.com/YusuFKaan48/YusufKaan48/assets/111217286/d58b5a9c-0724-4ad3-8d6f-0214f8440eda)
-
-
+![Screenshot 2023-06-14 at 20 44 15](https://github.com/YusuFKaan48/YusufKaan48/assets/111217286/49ca0ff1-23ed-487b-b45e-535606a35250)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufkaan48&label=Profile%20views&color=0e75b6&style=flat" alt="yusufkaan48" /> </p>
-
-- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **yusufkaanusta48@gmail.com**
 
