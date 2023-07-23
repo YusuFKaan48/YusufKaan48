@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufkaan48&label=Profile%20views&color=0e75b6&style=flat" alt="yusufkaan48" /> </p>
 
 - 📫 How to reach me **yusufkaanusta48@gmail.com**
+- Doğuş University Software Engineering 2/4
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
