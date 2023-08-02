@@ -3,7 +3,6 @@
 
 ![Screenshot 2023-06-14 at 20 44 15](https://github.com/YusuFKaan48/YusufKaan48/assets/111217286/49ca0ff1-23ed-487b-b45e-535606a35250)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufkaan48&label=Profile%20views&color=0e75b6&style=flat" alt="yusufkaan48" /> </p>
 
 - 📫 How to reach me **yusufkaanusta48@gmail.com**
 - Doğuş University Software Engineering 2/4
