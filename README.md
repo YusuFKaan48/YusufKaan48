@@ -1,5 +1,5 @@
 <h1 align="center">I'm Yusuf Kaan USTA</h1>
-<h3 align="center">I am a person who enjoys developing iOS applications.</h3>
+<h3 align="center">I am a person who enjoys developing applications.</h3>
 
 ![Screenshot 2023-06-14 at 20 44 15](https://github.com/YusuFKaan48/YusufKaan48/assets/111217286/49ca0ff1-23ed-487b-b45e-535606a35250)
 
